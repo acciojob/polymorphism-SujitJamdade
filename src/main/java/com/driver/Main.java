@@ -24,9 +24,9 @@ public class Main {
     public static void main(String args[]){
 
         Product p = new Product();
-        p.product(5,2);
-        p.product(5,2,3);
-        p.product(5.0,2.0);
+//        p.product();
+//        p.product();
+//        p.product();
 
     }
 
